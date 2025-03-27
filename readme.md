@@ -61,11 +61,12 @@ In this game, you pilot an X-Wing fighter to protect your Rebel base on the plan
 
 ### Scoring System
 
-- At the end of a game, your performance is rewarded with one of the following medals:
-  - **BRONZE**
-  - **SILVER**
-  - **GOLD**
-  - **SUPER**
+At the end of a game, your performance is rewarded with one of the following medals:
+
+- **BRONZE**
+- **SILVER**
+- **GOLD**
+- **SUPER**
 
 ## Technical Details
 
